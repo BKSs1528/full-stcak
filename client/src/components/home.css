@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.book-container{
+    background-color: navy;
+}
+.book-container h1{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+   padding-top: 20px;    
+}
+.book-container .btn{
+    width: 15%;
+    height: 30px;
+    border: 1px solid black;
+    float: right;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    background-color: rgb(252, 157, 14);
+}
+.book-container .books{
+   display: grid;
+   grid-template-columns: auto auto auto;
+}
+.book-container .books .book{
+   
+    border: 1px solid rgb(73, 72, 72);
+    margin: 10px;
+}
