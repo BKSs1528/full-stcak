@@ -1,0 +1,19 @@
+.app{
+  border: 1px solid;
+  width: 300px;
+  height: 250px;
+  margin-top: 250px;
+  margin-left: 500px;
+}
+.form{
+  margin-left: 60px;
+}
+.btn1{
+  margin-left: 90px;
+}
+.btn2{
+  margin-left: 70px;
+}
+.title{
+  margin-left: 120px;
+}

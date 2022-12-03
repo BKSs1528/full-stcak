@@ -53,7 +53,7 @@ const Register = () => {
 
 
   return (
-    <div className="main1">
+    <div className="main1" >
       {/* {console.log(user)} */}
       <div className="container">
         <h1>Member Register</h1>
